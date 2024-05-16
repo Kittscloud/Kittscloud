@@ -1,1 +1,1 @@
-Beginner, currently learning Java, Flutter and Rust
+Currently learning Rust :]
