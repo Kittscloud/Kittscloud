@@ -1,3 +1,4 @@
-Currently learning Rust :]
+Learning how to use Flutter
+Making some small applications
 
-Mostly tryna learn flutter though :|
+Very slowly learning rust :]
