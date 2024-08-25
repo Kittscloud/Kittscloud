@@ -1,6 +1,4 @@
-Learning how to use Flutter
-
-Making some small applications
+Learning how to code in Flutter, making some small applications
 
 Optimization is fun!!
 
